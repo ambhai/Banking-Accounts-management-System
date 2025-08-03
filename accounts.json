@@ -1,0 +1,83 @@
+{
+    "ACC899135": {
+        "username": "ali hama",
+        "address": "alhierh aiefh ",
+        "cnic": 34567543,
+        "password": "",
+        "account_number": "ACC899135",
+        "balance": 3456.0,
+        "transactions": [
+            [
+                "Deposit",
+                3456.0,
+                3456.0,
+                "2025-07-30 15:19:07"
+            ]
+        ]
+    },
+    "ACC717749": {
+        "username": "Ali Hamza",
+        "address": "mohala bilal house no 133",
+        "cnic": 235667,
+        "password": "",
+        "account_number": "ACC717749",
+        "balance": 345656.0,
+        "transactions": [
+            [
+                "Deposit",
+                2345656.0,
+                2345656.0,
+                "2025-07-30 15:24:39"
+            ],
+            [
+                "Withdraw",
+                2000000.0,
+                345656.0,
+                "2025-07-30 15:25:09"
+            ]
+        ]
+    },
+    "ACC419515": {
+        "username": "hanzla",
+        "address": "mohal bilal house no 124",
+        "cnic": 2345673,
+        "password": "5a4a0c923c9a9f9edb8a8f6aa3f6212708ad91b6895f3e5fa606710570b1f1f4",
+        "account_number": "ACC419515",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "ACC291736": {
+        "username": "Hanzla",
+        "address": "khanewal",
+        "cnic": 2345677,
+        "password": "a994696540befd55c96017a162c7ae2685f2010a7fd3224c0ada25241913933b",
+        "account_number": "ACC291736",
+        "balance": 345.0,
+        "transactions": [
+            [
+                "Deposit",
+                345.0,
+                345.0,
+                "2025-07-30 15:41:43"
+            ]
+        ]
+    },
+    "ACC100535": {
+        "username": "Muddasir",
+        "address": "khanewal",
+        "cnic": 1234567891234,
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "account_number": "ACC100535",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "ACC743034": {
+        "username": "chacha",
+        "address": "khanewal...",
+        "cnic": 1234,
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "account_number": "ACC743034",
+        "balance": 0.0,
+        "transactions": []
+    }
+}
